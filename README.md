@@ -1,26 +1,11 @@
-# Getting Started
-
-Welcome to your new project.
-
-It contains these folders and files, following our recommended project layout:
-
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
-
-
-## Next Steps
-
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
-
-
-## Learn More
-
-Learn more at https://cap.cloud.sap/docs/get-started/.
-"# SAP-CAP-1" 
+# Welcome you 🙏
+For Create operation open my package.json file copy the two dependencies and delete it from your side and paste it in you
+and create a server.js file like I have told in my Video and copy and paste it from mine it was in test_2/gen/srv
+and run the below command one by one I gave
+once you have change anything in the package.json file go for 'npm install' and follow by next
+# Install node modules 
+  npm install
+# Activating CDS
+   cds build
+#  Start the program
+  npm run start
